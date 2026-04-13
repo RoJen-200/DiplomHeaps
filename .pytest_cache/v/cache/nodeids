@@ -1,7 +1,0 @@
-[
-  "test_heaps.py::test_decrease_key_logic[FibonacciHeap]",
-  "test_heaps.py::test_decrease_key_logic[PairingHeap]",
-  "test_heaps.py::test_heap_sort_order[BinomialHeap]",
-  "test_heaps.py::test_heap_sort_order[FibonacciHeap]",
-  "test_heaps.py::test_heap_sort_order[PairingHeap]"
-]
